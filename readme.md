@@ -117,6 +117,7 @@ A curated list of papers and resources for **Talking Head Generation**, includin
 
 | Year | Paper | Venue | Links |
 |------|-------|-------|-------|
+| 2026 | [PVSync: A Unified Lip-Sync Expert for Timing and Articulation](https://arxiv.org/abs/2610.09223) | arXiv 2026 |  |
 | 2026 | [FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes](https://arxiv.org/abs/2601.14777v1) | arXiv 2026 |  |
 | 2026 | [TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation](https://arxiv.org/abs/2604.14580) | arXiv 2026 |  |
 | 2026 | [SEDTalker: Emotion-Aware 3D Facial Animation Using Frame-Level Speech Emotion Diarization](https://arxiv.org/abs/2604.13335) | arXiv 2026 | [Code](https://github.com/FarzanehJafari1987/SEDTalker) |
